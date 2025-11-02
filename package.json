@@ -1,0 +1,14 @@
+{
+  "name": "wallet-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simple Ethereum wallet demo with ethers.js",
+  "main": "src/wallet.js",
+  "scripts": {
+    "start": "node src/wallet.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0"
+  }
+}
