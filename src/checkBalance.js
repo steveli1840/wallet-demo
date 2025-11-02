@@ -25,9 +25,9 @@ async function checkBalance(address) {
 }
 
 const address = [
-    "0x38f381819a327b1d96f6b4dc89e5176f129c0dc9",  // My metamask address
-    "0xeDC6c96347F2AEF9c28a2cDFbf4fd05E2A271136",  // My program derived address 0
-    "0x9854F31760cB278a9671af3E4e91540D84224275"   // My program derived address 1
+    "0x3...",  // My metamask address
+    "0x...",  // My program derived address 0
+    "0x..."   // My program derived address 1
 ];
 
 for (const addr of address) {
